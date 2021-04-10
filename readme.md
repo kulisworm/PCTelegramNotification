@@ -8,7 +8,7 @@
 ***
 # Установка #  
 ##  Kali\debian\ubuntu ##  
-<git clone https://github.com/kulisworm/PCTelegramNotification >  
+```git clone https://github.com/kulisworm/PCTelegramNotification```  
 Переходим в папку с программой:  
 <cd PCTelegramNotification >  
 <sudo apt install python >  
@@ -24,7 +24,7 @@
 <chat_id >  
 можно получить у @getmyid_bot  
 <enablechecker >  
-***Если вы на линуксе , поставьте значение false , в противном случае чекер не даст запустится скрипту (чекер на линуксе всегда считает что скрипт закрыт)***
+***Если вы на линуксе , поставьте значение false , в противном случае чекер не даст запустится скрипту (чекер на линуксе всегда считает что скрипт закрыт)***  
 ***
-## Windows 7\8\10 ##
+## Windows ##
 ***Скоро***
