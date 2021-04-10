@@ -10,20 +10,20 @@
 ##  Kali\debian\ubuntu ##  
 ```git clone https://github.com/kulisworm/PCTelegramNotification```  
 Переходим в папку с программой:  
-<cd PCTelegramNotification >  
-<sudo apt install python >  
+```cd PCTelegramNotification```  
+```sudo apt install python```  
 Выдача прав скрипту установки:  
-<chmod +x install.sh >  
+```chmod +x install.sh```  
 Запускаем установщик и ждём:
-<./install.sh >  
-или
-<bash install.sh >  
+```./install.sh```  
+или  
+```bash install.sh```  
 ### Настройка ###
-<token >  
+```token```  
 токен вашего бота для уведомлений , можно получить у @BotFather  
-<chat_id >  
+```chat_id```  
 можно получить у @getmyid_bot  
-<enablechecker >  
+```enablechecker```  
 ***Если вы на линуксе , поставьте значение false , в противном случае чекер не даст запустится скрипту (чекер на линуксе всегда считает что скрипт закрыт)***  
 ***
 ## Windows ##
